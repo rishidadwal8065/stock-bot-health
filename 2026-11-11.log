@@ -17,3 +17,7 @@
 [orderflow] 2026-11-11T03:35:10 <broker> auto-login successful
 [orderflow] 2026-11-11T04:26:05 <broker> auto-login successful
 [orderflow] 2026-11-11T10:11:14 COCHINSHIP -#% on #x volume  short <sym> at the open, hold # sessions
+[orderflow] 2026-11-11T13:14:21   Ready in #ms
+[caddy] 2026-11-11T13:14:19 {'<v>':'<v>','<v>':#,'<v>':'<v>','<v>':'<v>','<v>':'<v>','<v>':false,'<v>':['<v>','<v>','<v>']}
+[caddy] 2026-11-11T13:14:19 {'<v>':'<v>','<v>':#,'<v>':'<v>','<v>':'<v>','<v>':'<v>'}
+[caddy] 2026-11-11T13:14:19 {'<v>':'<v>','<v>':#,'<v>':'<v>','<v>':'<v>','<v>':'<v>','<v>':#}
