@@ -1,1 +1,6 @@
 [orderflow] 2026-11-11T19:37:47   Ready in #ms
+[orderflow] 2026-11-12T03:35:10 <broker> auto-login successful
+[orderflow] 2026-11-12T03:44:30 [bot-#-paper] <broker> session ended (logged in elsewhere?). Connect <broker> again.
+[orderflow] 2026-11-12T03:44:50 <broker> auto-login failed: Auto-login attempted recently; waiting before retrying
+[orderflow] 2026-11-12T03:44:50 [bot-#-paper] Not logged in to <broker>
+[orderflow] 2026-11-12T03:45:19 <broker> auto-login successful
