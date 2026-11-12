@@ -4,3 +4,5 @@
 [orderflow] 2026-11-12T03:44:50 <broker> auto-login failed: Auto-login attempted recently; waiting before retrying
 [orderflow] 2026-11-12T03:44:50 [bot-#-paper] Not logged in to <broker>
 [orderflow] 2026-11-12T03:45:19 <broker> auto-login successful
+[orderflow] 2026-11-12T10:11:34 ALKEM -#% on #x volume  short <sym> at the open, hold # sessions
+[orderflow] 2026-11-12T10:11:34 PAGEIND -#% on #x volume  short <sym> at the open, hold # sessions
