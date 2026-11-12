@@ -6,3 +6,4 @@
 [orderflow] 2026-11-12T03:45:19 <broker> auto-login successful
 [orderflow] 2026-11-12T10:11:34 ALKEM -#% on #x volume  short <sym> at the open, hold # sessions
 [orderflow] 2026-11-12T10:11:34 PAGEIND -#% on #x volume  short <sym> at the open, hold # sessions
+[orderflow] 2026-11-12T12:00:52   Ready in #ms
