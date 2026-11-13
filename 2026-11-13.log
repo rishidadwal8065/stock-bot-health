@@ -19,3 +19,4 @@
 [orderflow] 2026-11-13T03:45:08 <broker> auto-login failed: Auto-login attempted recently; waiting before retrying
 [orderflow] 2026-11-13T03:45:08 bot-#: candles failed for <sym>: Not logged in to <broker>
 [orderflow] 2026-11-13T03:45:08 <broker> auto-login successful
+[orderflow] 2026-11-13T04:50:02   Ready in #ms
