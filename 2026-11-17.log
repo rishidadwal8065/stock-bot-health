@@ -4,3 +4,6 @@
 [orderflow] 2026-11-17T03:46:21 [bot] <notifier> failed: fetch failed
 [orderflow] 2026-11-17T10:06:23   Ready in #ms
 [orderflow] 2026-11-17T14:51:23   Ready in #ms
+[orderflow] 2026-11-17T15:47:10   Ready in #ms
+[orderflow] 2026-11-17T15:47:22 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-17T16:02:40 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
