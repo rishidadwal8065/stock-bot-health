@@ -1,2 +1,4 @@
 [orderflow] 2026-11-16T18:56:50   Ready in #ms
 [orderflow] 2026-11-16T21:32:20   Ready in #ms
+[orderflow] 2026-11-17T03:30:21 <broker> auto-login successful
+[orderflow] 2026-11-17T03:46:21 [bot] <notifier> failed: fetch failed
