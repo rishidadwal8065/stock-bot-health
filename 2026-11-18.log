@@ -2,3 +2,7 @@
 [orderflow] 2026-11-17T18:32:40 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
 [orderflow] 2026-11-17T18:47:40 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
 [orderflow] 2026-11-17T19:02:41 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-17T19:17:41 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-17T19:32:41 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-17T19:47:41 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-17T20:02:41 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
