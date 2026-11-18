@@ -24,3 +24,4 @@
 [orderflow] 2026-11-18T03:30:11 <broker> auto-login successful
 [orderflow] 2026-11-18T03:44:15 <broker> auto-login successful
 [orderflow] 2026-11-18T03:46:11 [bot] <notifier> failed: fetch failed
+[orderflow] 2026-11-18T10:17:48   Ready in #ms
