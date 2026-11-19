@@ -24,3 +24,4 @@
 [orderflow] 2026-11-19T03:30:49 <broker> auto-login successful
 [orderflow] 2026-11-19T03:46:49 [bot] <notifier> failed: fetch failed
 [orderflow] 2026-11-19T05:10:28 <broker> auto-login successful
+[orderflow] 2026-11-19T16:00:23 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
