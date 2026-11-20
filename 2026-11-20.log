@@ -21,3 +21,5 @@
 [orderflow] 2026-11-19T23:15:25 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
 [orderflow] 2026-11-19T23:30:25 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
 [orderflow] 2026-11-19T23:45:25 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
+[orderflow] 2026-11-20T03:30:51 <broker> auto-login successful
+[orderflow] 2026-11-20T03:46:51 [bot] <notifier> failed: fetch failed
