@@ -1,0 +1,4 @@
+[orderflow] 2026-11-21T18:15:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
+[orderflow] 2026-11-21T18:30:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
+[orderflow] 2026-11-21T18:45:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
+[orderflow] 2026-11-21T19:00:36 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
