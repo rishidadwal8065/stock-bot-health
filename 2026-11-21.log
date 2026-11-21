@@ -51,3 +51,7 @@
 [orderflow] 2026-11-21T16:30:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
 [orderflow] 2026-11-21T16:45:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
 [orderflow] 2026-11-21T17:00:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
+[orderflow] 2026-11-21T17:15:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
+[orderflow] 2026-11-21T17:30:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
+[orderflow] 2026-11-21T17:45:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
+[orderflow] 2026-11-21T18:00:35 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-rate-limited>
