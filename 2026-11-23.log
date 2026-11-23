@@ -26,3 +26,6 @@
 [orderflow] 2026-11-23T03:49:10 <broker> auto-login successful
 [orderflow] 2026-11-23T05:25:04 [bot]  EMARSI SHORT  <sym> @ #,<http-server-error>.# (#m #/#, RSI #/#)
 [orderflow] 2026-11-23T10:10:49 APLAPOLLO -#% on #x volume  short <sym> at the open, hold # sessions
+[orderflow] 2026-11-23T15:30:18 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-23T15:45:18 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-23T16:00:18 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
