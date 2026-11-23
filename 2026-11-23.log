@@ -24,3 +24,4 @@
 [orderflow] 2026-11-23T03:31:00 <broker> auto-login successful
 [orderflow] 2026-11-23T03:47:00 [bot] <notifier> failed: fetch failed
 [orderflow] 2026-11-23T03:49:10 <broker> auto-login successful
+[orderflow] 2026-11-23T05:25:04 [bot]  EMARSI SHORT  <sym> @ #,<http-server-error>.# (#m #/#, RSI #/#)
