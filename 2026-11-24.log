@@ -21,3 +21,4 @@
 [orderflow] 2026-11-23T23:15:21 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
 [orderflow] 2026-11-23T23:30:21 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
 [orderflow] 2026-11-23T23:45:21 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-24T03:30:06 <broker> auto-login successful
