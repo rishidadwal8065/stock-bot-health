@@ -90,3 +90,7 @@
 [orderflow] 2026-11-25T11:30:03 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
 [orderflow] 2026-11-25T11:45:03 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
 [orderflow] 2026-11-25T12:00:03 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-25T12:15:03 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-25T12:30:03 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-25T12:45:03 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-25T13:00:03 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
