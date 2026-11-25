@@ -102,3 +102,7 @@
 [orderflow] 2026-11-25T14:30:04 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
 [orderflow] 2026-11-25T14:45:04 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
 [orderflow] 2026-11-25T15:00:04 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-25T15:15:04 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-25T15:30:04 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-25T15:45:04 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
+[orderflow] 2026-11-25T16:00:04 [bot] sync error: <sym>:#:#.<sym> ingest HTTP <http-server-error>
